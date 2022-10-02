@@ -1,0 +1,8 @@
+.bg-container{
+    background-image:linear-gradient(yellow,white);
+    background-size: cover;
+    margin:50px;
+    padding: 10px;
+}
+
+
